@@ -22,4 +22,8 @@ The Simulink model (`src/Controlled_PlanarRobot.slx`) implements the Lagrangian 
 | `src/fun_drawRobo.mlx` | 2D robot arm rendering |
 | `src/fun_moveRobo.mlx` | animated robot movement |
 
-Full documentation in `docs/Projekt_export.pdf`. Screenshot of the GUI and Simulink model in `docs/Image.jpg`.
+Full documentation in `docs/Projekt_export.pdf`.
+
+## Screenshot
+
+![App Designer GUI and Simulink model](docs/Image.jpg)
